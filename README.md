@@ -19,7 +19,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colding10&theme=radical&title_color=8E2DE2&text_color=fff)
-![Github Stats]("https://github-readme-stats.vercel.app/api?username=colding10&theme=radical&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=colding10&theme=radical&text_color=fff)
 
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=colding10&repo=Kingfish&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
