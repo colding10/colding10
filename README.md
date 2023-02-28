@@ -9,6 +9,8 @@
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
 ![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
 <br>
+![
+<br>
 ![VSCode](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=8E2DE2)
 ![Sublime Text](https://img.shields.io/badge/Sublime-grey?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=8E2DE2)
 ![iTerm2](https://img.shields.io/badge/iTerm2-grey?style=for-the-badge&logo=iterm2&logoColor=white&labelColor=8E2DE2)
@@ -25,6 +27,7 @@
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=colding10&repo=Kingfish&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=colding10&repo=LeetCode&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=colding10" id="counter">
 </p>
