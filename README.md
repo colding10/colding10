@@ -12,7 +12,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=8E2DE2)
 ![Sublime Text](https://img.shields.io/badge/Sublime-grey?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=8E2DE2)
 ![iTerm2](https://img.shields.io/badge/iTerm2-grey?style=for-the-badge&logo=iterm2&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 <br>
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
