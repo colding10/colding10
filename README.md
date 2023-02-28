@@ -27,8 +27,6 @@
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=colding10&repo=Kingfish&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=colding10&repo=LeetCode&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=colding10.colding10&left_color=green&right_color=red)
-
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=colding10" id="counter">
 </p>
