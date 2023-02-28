@@ -5,10 +5,10 @@
 - 😄 My USACO level: Silver
 
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![Python](https://img.shields.io/badge/python203-grey?style=for-the-badge&logo=python3&logoColor=white&labelColor=8E2DE2)
+![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
+![C++](https://img.shields.io/badge/cpp-grey?style=for-the-badge&logo=cpp&logoColor=white&labelColor=8E2DE2)
+![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
 <br>
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
