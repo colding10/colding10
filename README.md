@@ -4,25 +4,25 @@
 - 📫 How to reach me: colinding10@gmail.com
 - 😄 My USACO level: Silver
 
-**Backend/Competitive Programming: **<br>
+**Backend/Competitive Programming:**<br>
 ![Python](https://img.shields.io/badge/python%203-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
 ![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
 <br>
-**Libraries/Frameworks: **<br>
+**Libraries/Frameworks:**<br>
 ![GTK](https://img.shields.io/badge/GTK-grey?style=for-the-badge&logo=gtk&logoColor=white&labelColor=8E2DE2)
 <br>
-**Miscallenous Languages: **<br>
+**Miscallenous Languages:**<br>
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![Github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
-**Development Software: **<br>
+**Development Software:**<br>
 ![VSCode](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=8E2DE2)
 ![Sublime Text](https://img.shields.io/badge/Sublime-grey?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=8E2DE2)
 ![iTerm2](https://img.shields.io/badge/iTerm2-grey?style=for-the-badge&logo=iterm2&logoColor=white&labelColor=8E2DE2)
 <br>
-**Productivity Software: **<br>
+**Productivity Software:**<br>
 ![Todoist](https://img.shields.io/badge/Todoist-grey?style=for-the-badge&logo=todoist&logoColor=white&labelColor=8E2DE2)
 ![GCal](https://img.shields.io/badge/GCal-grey?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=8E2DE2)
 <br>
