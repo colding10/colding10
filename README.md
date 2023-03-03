@@ -15,9 +15,9 @@
 ![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
 <br>
 **Frontend/Recreational Programing:**<br>
-![HTML5](https://img.shields.io/badge/python%203-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
-![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
+![HTML5](https://img.shields.io/badge/HTML5%203-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 <br>
 **Libraries/Frameworks:**<br>
 ![GTK](https://img.shields.io/badge/GTK-grey?style=for-the-badge&logo=gtk&logoColor=white&labelColor=8E2DE2)
