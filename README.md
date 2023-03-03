@@ -9,7 +9,7 @@
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
 ![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
 <br>
-![
+![GTK]()
 <br>
 ![VSCode](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=8E2DE2)
 ![Sublime Text](https://img.shields.io/badge/Sublime-grey?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=8E2DE2)
