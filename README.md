@@ -20,6 +20,7 @@
 ![iTerm2](https://img.shields.io/badge/iTerm2-grey?style=for-the-badge&logo=iterm2&logoColor=white&labelColor=8E2DE2)
 <br>
 ![Todoist](https://img.shields.io/badge/Todoist-grey?style=for-the-badge&logo=todoist&logoColor=white&labelColor=8E2DE2)
+![GCal](https://img.shields.io/badge/GCal-grey?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=8E2DE2)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colding10&theme=radical&text_color=fff)
