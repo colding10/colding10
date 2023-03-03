@@ -4,6 +4,7 @@
 - 📫 How to reach me: colinding10@gmail.com
 - 😄 My USACO level: Silver
 
+<p align="middle">
 __Backend/Competitive Programming:__
 ![Python](https://img.shields.io/badge/python%203-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
@@ -26,6 +27,7 @@ __Backend/Competitive Programming:__
 ![Todoist](https://img.shields.io/badge/Todoist-grey?style=for-the-badge&logo=todoist&logoColor=white&labelColor=8E2DE2)
 ![GCal](https://img.shields.io/badge/GCal-grey?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=8E2DE2)
 <br>
+ </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colding10&theme=radical&text_color=fff)
 ![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colding10&show_icons=true&theme=radical)
