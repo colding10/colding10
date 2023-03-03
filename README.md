@@ -1,11 +1,21 @@
-- 🔭 I’m currently working on C++/Python
-- 🌱 I’m currently learning Rust
+- 🔭 Languages learning
+  - Rust
+  - HTML5
+  - JavaScript
+- 🌱 Languages mastered (learned)
+  - Python
+  - C++
 - 💬 Ask me anything about Python
 - 📫 How to reach me: colinding10@gmail.com
 - 😄 My USACO level: Silver
 
 **Backend/Competitive Programming:**<br>
 ![Python](https://img.shields.io/badge/python%203-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
+![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
+<br>
+**Frontend/Recreational Programing:**<br>
+![HTML5](https://img.shields.io/badge/python%203-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
 ![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
 <br>
