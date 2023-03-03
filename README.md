@@ -11,13 +11,15 @@
 <br>
 ![GTK](https://img.shields.io/badge/GTK-grey?style=for-the-badge&logo=gtk&logoColor=white&labelColor=8E2DE2)
 <br>
+![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![Github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+<br>
 ![VSCode](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=8E2DE2)
 ![Sublime Text](https://img.shields.io/badge/Sublime-grey?style=for-the-badge&logo=sublimetext&logoColor=white&labelColor=8E2DE2)
 ![iTerm2](https://img.shields.io/badge/iTerm2-grey?style=for-the-badge&logo=iterm2&logoColor=white&labelColor=8E2DE2)
 <br>
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![Todoist](https://img.shields.io/badge/Todoist-grey?style=for-the-badge&logo=todoist&logoColor=white&labelColor=8E2DE2)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colding10&theme=radical&text_color=fff)
