@@ -5,7 +5,8 @@
 - 🌱 Languages mastered (learned)
   - Python
   - C++
-- 💬 Ask me anything about Python
+  - Java
+- 💬 Ask me anything about Python or C++
 - 📫 How to reach me: colinding10@gmail.com
 - 😄 My USACO level: Silver
 
