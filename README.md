@@ -1,8 +1,4 @@
-- 🔭 Languages learning
-  - Rust
-  - HTML5
-  - JavaScript
-- 🌱 Languages mastered (learned)
+- 🌱 I know how to use
   - Python
   - C++
   - Java
