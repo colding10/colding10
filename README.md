@@ -18,8 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 <br>
-![GTK](https://img.shields.io/badge/GTK-grey?style=for-the-badge&logo=gtk&logoColor=white&labelColor=8E2DE2)
-<br>
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![Github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
