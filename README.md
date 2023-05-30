@@ -1,10 +1,4 @@
-- 🌱 I know how to use
-  - Python
-  - C++
-  - Java
-- 💬 Ask me anything about Python or C++
-- 📫 How to reach me: colinding10@gmail.com
-- 😄 My USACO level: Silver
+## Hi there 👋
 
 ![Python](https://img.shields.io/badge/python%203-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
