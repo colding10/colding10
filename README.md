@@ -4,9 +4,6 @@
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2)
 ![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust&logoColor=white&labelColor=8E2DE2)
 <br>
-![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
 <br>
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
@@ -27,6 +24,8 @@
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=colding10&repo=Kingfish&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=colding10&repo=LeetCode&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
 
+
+neovim > all
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=colding10" id="counter">
