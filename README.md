@@ -8,7 +8,7 @@ im cold. i try to code and be good at code. also do ctf
     <td><img src="metrics/metrics.isocalendar.svg" alt="📅 Isometric commit calendar"></td>
   </tr>
   <tr>
-    <td><img src="metrics.languages.svg" alt="🈷️ Languages activity"></td>
-    <td><img src="metrics.stargazers.svg" alt="✨ Stargazers"></td>
+    <td><img src="metrics/metrics.languages.svg" alt="🈷️ Languages activity"></td>
+    <td><img src="metrics/metrics.stargazers.svg" alt="✨ Stargazers"></td>
   </tr>
 </table>
