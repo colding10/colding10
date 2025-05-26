@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm Landon! I code stuff sometimes.
+im cold. i try to code and be good at code. also do ctf 
 
 <table>
   <tr>
