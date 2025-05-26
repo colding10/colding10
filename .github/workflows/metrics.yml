@@ -21,7 +21,7 @@ jobs:
                 plugins_errors_fatal: yes
                 user: colding10
                 template: classic
-                config_timezone: America/Los_Angeles
+                config_timezone: America/New_York
 
                 base: header, activity, community, repositories, metadata
 
@@ -34,7 +34,7 @@ jobs:
                 plugins_errors_fatal: yes
                 user: colding10
                 template: classic
-                config_timezone: America/Los_Angeles
+                config_timezone: America/New_York
 
                 base: ""
                 plugin_isocalendar: yes
@@ -73,7 +73,7 @@ jobs:
                 plugins_errors_fatal: yes
                 user: colding10
                 template: classic
-                config_timezone: America/Los_Angeles
+                config_timezone: America/New_York
 
                 base: ""
                 plugin_stargazers: yes
