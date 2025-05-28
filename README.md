@@ -1,6 +1,7 @@
 ## Hello!
 
 im cold. i try to code and be good at code. also do ctf 
+most my repo r private
 
 <table>
   <tr>
