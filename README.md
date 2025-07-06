@@ -14,8 +14,9 @@ most my repo r private
   </tr>
 </table>
 
-<center>
-  **idk wtf this is below but im trying it out**
-  ![colding10](https://count.getloli.com/@colding10)
-</center>
+**idk wtf this is below but im trying it out**
+
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://count.getloli.com/@colding10)" />
+</p>
 
