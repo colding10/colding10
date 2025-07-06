@@ -17,6 +17,6 @@ most my repo r private
 **idk wtf this is below but im trying it out**
 
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://count.getloli.com/@colding10)" />
+  <img src="https://count.getloli.com/@colding10" />
 </p>
 
