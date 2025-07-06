@@ -14,7 +14,9 @@ most my repo r private
   </tr>
 </table>
 
-
-**idk wtf this is below but im trying it out**
+<center>
+  **idk wtf this is below but im trying it out**
 
 ![colding10](https://count.getloli.com/@colding10)
+</center>
+
