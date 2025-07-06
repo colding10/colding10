@@ -16,7 +16,6 @@ most my repo r private
 
 <center>
   **idk wtf this is below but im trying it out**
-
-![colding10](https://count.getloli.com/@colding10)
+  ![colding10](https://count.getloli.com/@colding10)
 </center>
 
